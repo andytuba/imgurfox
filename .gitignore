@@ -7,3 +7,5 @@ socialite.xpi
 
 buildxpi_config_local.py
 update.rdf
+personal
+imgurfox.xpi
